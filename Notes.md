@@ -9,8 +9,8 @@ Ternary Operators: There is only one ternary operator in JavaScript the conditio
        If Boolean is true then console.log will return value1 else it will return value2
 
 = is declaring a value
-== is a Boolean; is equal to
-=== is a Boolean; is equal to (no type conversion)
+== is a Boolean operator; is value1 equal to value2
+=== is a Boolean operator; is value1 equal to value2 (no type conversion)
 
 && logical AND
 || logical OR
